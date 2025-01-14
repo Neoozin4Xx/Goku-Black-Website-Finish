@@ -1,1 +1,3 @@
 # Goku-Black-Website-Finish
+
+This is for my training about html and css, nothing important... 
