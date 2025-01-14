@@ -1,0 +1,50 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: "Young Serif", serif;
+}
+
+header {
+  text-align: center;
+  background-color: white;
+}
+
+h1 {
+  text-align: center;
+  padding: 5px;
+}
+
+p {
+  text-align: center;
+  padding: 20px;
+}
+
+footer {
+  text-align: center;
+  background-color: white;
+  color: black;
+}
+
+header nav {
+  display: flex;
+  justify-content: center;
+}
+
+.Black {
+  position: relative;
+  left: 126px;
+  padding: 10px;
+  height: 350px;
+}
+
+.Hero {
+  position: relative;
+  left: 50px;
+  padding: 10px;
+}
+
+.SJ {
+  position: relative;
+  left: 80px;
+  padding: 1px;
+}
